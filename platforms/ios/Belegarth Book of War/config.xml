@@ -30,12 +30,12 @@
     </feature>
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
-    <name>HelloCordova</name>
+    <name>Belegarth Book of War</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        A simple app to display the Belegarth Book of War on mobile devices.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="iamacleish@gmail.com" href="https://github.com/iamacleish/BelegarthBookofWar">
+        Ian MacLeish
     </author>
     <content src="index.html" />
     <access origin="*" />
