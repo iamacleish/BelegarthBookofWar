@@ -1,5 +1,3 @@
-# BelegarthBookofWar
-
 Belegarth Book of War App
 =========================
 
